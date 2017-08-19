@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "209419219899514880",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "omc>"
+    ],
+    "TOKEN" : "token has been hidden",
+    "default" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Moderator",
+        "PREFIXES" : []
+    }
+}

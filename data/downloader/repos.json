@@ -1,0 +1,98 @@
+{
+    "Red-Portal-Cogs" : {
+        "redportal" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Red-Portal-Cogs\\redportal\\redportal.py",
+            "folder" : "data\\downloader\\Red-Portal-Cogs\\redportal"
+        },
+        "url" : "https://github.com/orels1/Red-Portal-Cogs"
+    },
+    "palmtree5-cogs" : {
+        "banrole" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\banrole\\banrole.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\banrole"
+        },
+        "botqueue" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\botqueue\\botqueue.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\botqueue"
+        },
+        "catfact" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\catfact\\catfact.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\catfact"
+        },
+        "coventry" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\coventry\\coventry.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\coventry"
+        },
+        "eventmaker" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\eventmaker\\eventmaker.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\eventmaker"
+        },
+        "feunitpicker" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\feunitpicker\\feunitpicker.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\feunitpicker"
+        },
+        "hpapi" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\hpapi\\hpapi.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\hpapi"
+        },
+        "lockdown" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\lockdown\\lockdown.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\lockdown"
+        },
+        "mcsvr" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\palmtree5-cogs\\mcsvr\\mcsvr.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\mcsvr"
+        },
+        "mentiontracker" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\mentiontracker\\mentiontracker.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\mentiontracker"
+        },
+        "messagepinner" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\messagepinner\\messagepinner.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\messagepinner"
+        },
+        "newsannouncer" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\newsannouncer\\newsannouncer.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\newsannouncer"
+        },
+        "reddit" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\reddit\\reddit.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\reddit"
+        },
+        "srrecords" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\srrecords\\srrecords.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\srrecords"
+        },
+        "stream-hostcheck" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\stream-hostcheck\\stream-hostcheck.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\stream-hostcheck"
+        },
+        "svutil" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\svutil\\svutil.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\svutil"
+        },
+        "tweets" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\palmtree5-cogs\\tweets\\tweets.py",
+            "folder" : "data\\downloader\\palmtree5-cogs\\tweets"
+        },
+        "url" : "https://github.com/palmtree5/palmtree5-cogs"
+    }
+}
